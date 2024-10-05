@@ -1,0 +1,11 @@
+.icon{
+    font-size: 30px;
+}
+.inp{
+    padding: 8px;
+    border-radius: 10px;
+    border:navy;
+    background-color: rgb(181, 175, 185);
+    color:white;
+    font-size: 18px;
+}

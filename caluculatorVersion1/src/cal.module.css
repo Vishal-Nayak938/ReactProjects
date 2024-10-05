@@ -1,0 +1,21 @@
+#Calculator{
+    /*leave calculator  */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin:10px;
+    height: 400px;
+    width: 200px;
+    /* background-color: wheat; */
+    border: 2px solid whitesmoke;
+
+}
+
+
+
+/* leave total */
+#total{
+display: flex;
+justify-content: center;
+
+}
